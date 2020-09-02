@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on __Reactjs__
 - 🌱 I’m currently learning __Nextjs, Redux__
-<!-- 👯 I’m looking to collaborate on __Open Source Projects__-->
 - 💬 Ask me about __Open Source Communities (OSC's)__
 - 📫 How to reach me: __founder@openmindd.xyz__
 - ⚡ Fun fact: __World is much more than 0 & 1__
+<!-- 👯 I’m looking to collaborate on __Open Source Projects__-->
 <!-- - 😄 Pronouns: ...-->
 <!--  🤔 I’m looking for help with -->
 

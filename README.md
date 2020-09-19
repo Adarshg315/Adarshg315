@@ -7,7 +7,7 @@
 
 ![Image of Yaktocat](https://sdk.bitmoji.com/render/panel/e0025372-cccf-45e4-8ab4-3abd16875933-ac1abb79-00ce-4f37-8980-c7dcd74150ec-v1.png?transparent=1&palette=1)
 
-- 🔭 I’m currently working on __Reactjs__
+- 🔭 I’m currently working on ![](https://user-images.githubusercontent.com/26193656/87819465-e964e600-c889-11ea-8eaa-667ffdb88623.png)
 - 🌱 I’m currently learning __Nextjs, Redux__
 - 💬 Ask me about __Open Source Communities (OSC's)__
 - 📫 How to reach me: __founder@openmindd.xyz__

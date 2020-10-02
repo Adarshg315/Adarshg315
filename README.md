@@ -12,6 +12,8 @@
 - 💬 Ask me about __Open Source Communities (OSC's)__
 - 📫 How to reach me: __founder@openmindd.xyz__
 - ⚡ Fun fact: __World is much more than 0 & 1__
+![My github stats](https://github-readme-stats.vercel.app/api?username=adarshg315&show_icons=true)
+
 <!-- 👯 I’m looking to collaborate on __Open Source Projects__-->
 <!-- - 😄 Pronouns: ...-->
 <!--  🤔 I’m looking for help with -->

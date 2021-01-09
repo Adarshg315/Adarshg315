@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on ![](https://user-images.githubusercontent.com/26193656/87819465-e964e600-c889-11ea-8eaa-667ffdb88623.png)
 - 💬 Ask me about __Open Source Communities (OSC's)__
 - 📫 How to reach me: __founder@openmindd.xyz__
-- ⚡ Fun fact: __World is much more than 0 & 1__
-
+- ⚡  Fun fact: __World is much more than 0 & 1__
+- ☕  [Buy](https://www.paypal.com/paypalme/adagoyal) me a Coffee
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=adarshg315&show_icons=true)
 

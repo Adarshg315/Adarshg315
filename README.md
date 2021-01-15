@@ -3,7 +3,7 @@
 ### I am an Autodidact love to learn and explore new possibilities in the technology and what I love the most is the open-source communities, I ❤️ open source
 
 
-<a href="https://docs.google.com/document/d/1zZoxmOKvPeth-WN3oKnlTWUYjYPtVTNQCO_RDXF0RMc/edit?usp=sharing"><img src="http://pixelartmaker.com/art/1e4ed6ace0977ce.png" alt="Resume"/></a>
+<a href="https://docs.google.com/document/d/1zZoxmOKvPeth-WN3oKnlTWUYjYPtVTNQCO_RDXF0RMc/edit?usp=sharing"><img src="1e4ed6ace0977ce.png" alt="Resume"/></a>
 
 - I’m currently looking for internship opportunities in __web/mobile app development__
 

@@ -11,8 +11,8 @@
 - 💬 Ask me about __Open Source Communities (OSC's)__
 - 📫 How to reach me: __founder@openmindd.xyz__
 - ⚡  Fun fact: __World is much more than 0 & 1__
-- ☕  [Buy](https://www.paypal.com/paypalme/adagoyal) me a Coffee
-
+- <a href="https://www.paypal.com/paypalme/adagoyal"><img src="https://www.tecmint.com/wp-content/uploads/2015/01/coffee.png" alt="buy me a coffee"/></a>
+ 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=adarshg315&show_icons=true)
 
 <!-- 👯 I’m looking to collaborate on __Open Source Projects__-->

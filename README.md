@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 ### I am an Autodidact love to learn and explore new possibilities in the technology and what I love the most is the open-source communities, I ❤️ open source
-<!--
-**Adarshg315/Adarshg315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+
+<a href="https://docs.google.com/document/d/1zZoxmOKvPeth-WN3oKnlTWUYjYPtVTNQCO_RDXF0RMc/edit?usp=sharing"><img src="http://pixelartmaker.com/art/1e4ed6ace0977ce.png" alt="Resume"/></a>
+
+- I’m open for internship opportunities in __web/mobile development__
 
 ![Image of Yaktocat](https://sdk.bitmoji.com/render/panel/7ff431c5-0042-4ded-81e5-a5514a9e677a-ac1abb79-00ce-4f37-8980-c7dcd74150ec-v1.png?transparent=1&palette=1)
 
-- 🔭 I’m currently working on ![](https://user-images.githubusercontent.com/26193656/87819465-e964e600-c889-11ea-8eaa-667ffdb88623.png)
-- 💬 Ask me about __Open Source Communities (OSC's)__
+<!-- - 🔭 I’m currently working on ![](https://user-images.githubusercontent.com/26193656/87819465-e964e600-c889-11ea-8eaa-667ffdb88623.png) -->
+<!-- - 💬 Ask me about __Open Source Communities (OSC's)__ -->
 - 📫 How to reach me: __founder@openmindd.xyz__
 - ⚡  Fun fact: __World is much more than 0 & 1__
 
@@ -16,8 +18,7 @@
  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=adarshg315&show_icons=true)
 
-<!-- 👯 I’m looking to collaborate on __Open Source Projects__-->
-<!-- - 😄 Pronouns: ...-->
+<!-- - 😄 Pronouns:-->
 <!--  🤔 I’m looking for help with -->
 
 

@@ -5,7 +5,7 @@
 
 <a href="https://docs.google.com/document/d/1zZoxmOKvPeth-WN3oKnlTWUYjYPtVTNQCO_RDXF0RMc/edit?usp=sharing"><img src="http://pixelartmaker.com/art/1e4ed6ace0977ce.png" alt="Resume"/></a>
 
-- I’m open for internship opportunities in __web/mobile app development__
+- I’m currently looking for internship opportunities in __web/mobile app development__
 
 ![Image of Yaktocat](https://sdk.bitmoji.com/render/panel/7ff431c5-0042-4ded-81e5-a5514a9e677a-ac1abb79-00ce-4f37-8980-c7dcd74150ec-v1.png?transparent=1&palette=1)
 

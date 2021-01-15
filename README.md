@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am an Autodidact love to learn and explore new possibilities in the technology and what I love the most is the open-source communities, I ❤️ open source
+### I am an Autodidact love to learn and explore new possibilities in the technology and what I love the most is the open-source communities.
 
 
 <a href="https://docs.google.com/document/d/1zZoxmOKvPeth-WN3oKnlTWUYjYPtVTNQCO_RDXF0RMc/edit?usp=sharing"><img src="/1e4ed6ace0977ce.png" alt="Resume"/></a>

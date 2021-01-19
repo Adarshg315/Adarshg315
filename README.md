@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center" style="border-bottom: none">Hi there 👋</h1>
 <p align="center">
  <img src="/pic.png" width="25%"/>
  <h2 align="center" >I am an Autodidact love to learn and explore new possibilities in the technology.</h2>

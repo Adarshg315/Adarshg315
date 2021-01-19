@@ -1,4 +1,3 @@
-<div>
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
  <img src="/pic.png" width="25%"/>
@@ -18,10 +17,7 @@
 </a>
  <br />
  <img src="https://github-readme-stats.vercel.app/api?username=adarshg315&show_icons=true" />
- <h3 align="center"> 📫 How to reach me: <a href="mailto:adarshg315@gmail.com">adarshg315@gmail.com</a></h3>
+ <h3 align="center"> How to reach me: <a href="mailto:adarshg315@gmail.com">adarshg315@gmail.com</a></h3>
+ <h3 align="center"> Contact: <a href="tel:+9178287064354">7828706434</a></h3>
 </p>
-
-
-
-</div>
 

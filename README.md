@@ -8,7 +8,7 @@
  <a href="https://docs.google.com/document/d/1zZoxmOKvPeth-WN3oKnlTWUYjYPtVTNQCO_RDXF0RMc/edit?usp=sharing">
    <img src="/1e4ed6ace0977ce.png" alt="Resume"/>
  </a>
- <h1 align="center"> I’m currently looking for internship opportunities in web/mobile app development </h1>
+ <h1 align="center"> I’m currently looking for full time job opportunities in web/mobile app development </h1>
 </p>
 
 <p align="center">

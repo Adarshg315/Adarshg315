@@ -22,7 +22,8 @@
 </p>
 
 <p align="center">
- Total Visitors 👉 Visitor Count <img src="https://profile-counter.glitch.me/{Adarshg315}/count.svg"> 
+ Total Visitors 👉 <img src="https://profile-counter.glitch.me/{Adarshg315}/count.svg"> <br />
+ Visitor Count
  </img>
 </p>
 

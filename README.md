@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none">Hi there 👋</h1>
-<h2 align="center" >I am an Autodidact who loves to learn and explore diffrent possibilities in the technology.</h2>
+<h2 align="center" >I am an Autodidact who loves to learn and explore different possibilities in the technology.</h2>
 <h2 align="center"> Open for full time job opprtunities as a software developer</h2>
 <p align="center">
  <a href="https://docs.google.com/document/d/1zZoxmOKvPeth-WN3oKnlTWUYjYPtVTNQCO_RDXF0RMc/edit?usp=sharing">

@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.paypal.com/paypalme/adagoyal">
- <img src="https://www.tecmint.com/wp-content/uploads/2015/01/coffee.png" alt="buy me a coffee"/>
-</a>
  <br />
  <img src="https://github-readme-stats.vercel.app/api?username=adarshg315&show_icons=true" />
  <h3 align="center"> How to reach me: <a href="mailto:adarshg315@gmail.com">adarshg315@gmail.com</a></h3>

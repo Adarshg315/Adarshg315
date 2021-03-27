@@ -10,7 +10,7 @@
 <p align="center">
  <br />
  <img src="https://github-readme-stats.vercel.app/api?username=adarshg315&show_icons=true" />
- <h3 align="center"> e-mail: <a href="mailto:adarshg315@gmail.com">adarshg315@gmail.com</a></h3>
+ <h3 align="center"> Email: <a href="mailto:adarshg315@gmail.com">adarshg315@gmail.com</a></h3>
  <h3 align="center"> Contact: <a href="tel:+9178287064354">7828706434</a></h3>
 </p>
 

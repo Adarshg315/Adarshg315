@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none">Hi there 👋</h1>
-<h2 align="center" >I am a computer science undergraduate who loves to learn and explore different possibilities in the technology.</h2>
+<!-- <h2 align="center" >I am a computer science graduate who loves to learn and explore different possibilities in the technology.</h2>-->
 <!-- <h2 align="center"> Open for full time job opprtunities as a software developer</h2>-->
 <p align="center">
  <a href="https://drive.google.com/file/d/1wBd7tiB0FrbTjiJqXHB3sqiBBX8uzBUh/view?usp=sharing">

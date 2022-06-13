@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/webapp-personal-blue?style=for-the-badge&logo=react)
+<!-- ![](https://img.shields.io/badge/Follow-grey?style=for-the-badge&logo=twitter) -->
+![](https://img.shields.io/twitter/follow/_Adarsh_Goyal_?style=social)
+
 <h1 align="center" style="border-bottom: none">Hi there 👋</h1>
 <!-- <h2 align="center" >I am a computer science graduate who loves to learn and explore different possibilities in the technology.</h2>-->
 <!-- <h2 align="center"> Open for full time job opprtunities as a software developer</h2>-->

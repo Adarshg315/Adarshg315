@@ -19,4 +19,6 @@
  <h3 align="center"> Contact: <a href="tel:+9178287064354">7828706434</a></h3>
 </p>
 
-<a href="https://app.daily.dev/agoyal"><img src="https://api.daily.dev/devcards/119b9bf73d2e47a29aae0d6a477fb5ce.png?r=vdh" width="400" alt="Adarsh Goyal's Dev Card"/></a>
+
+<a href="https://app.daily.dev/agoyal"><img src="https://github.com/Adarshg315/Adarshg315/blob/master/devcard.svg" width="400" alt="Adarsh Goyal's Dev Card"/></a>
+
